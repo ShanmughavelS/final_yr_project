@@ -46,6 +46,8 @@ Technologies Used:
 
 * Scikit-learn
 
+* Random forest 
+
 * XGBoost
 
 * LightGBM
